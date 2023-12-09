@@ -4,7 +4,7 @@ Olá, sou Luís Rafael Sena, um(a) entusiasta de programação competitiva. Atua
 
 ## 🚀 Habilidades
 
-- Linguagens de Programação: Pascal, Python, C++, C
+[Python](https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg)[C++](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg)[C](https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg)
 
 ## 🌟 Projetos Destacados
 
