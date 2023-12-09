@@ -12,9 +12,9 @@ Olá, sou Luís Rafael Sena, um(a) entusiasta de programação competitiva. Atua
 
 ## 📫 Como Me Encontrar
 
-- Instagram: [Texto do Link](URL)
-- Discord: [Texto do Link](URL)
-- LinkedIn: [Texto do Link](URL)
-- Gmail: [Texto do Link](URL)
+- [Instagram](https://www.instagram.com/luisrafaelsna/?hl=pt-br)
+- [Discord](URL)
+- [LinkedIn](URL)
+- [Gmail](URL)
 
-![Texto Alternativo](URL da Imagem)
+![Wallpaper]((https://i.pinimg.com/originals/63/dc/36/63dc368ec4c000526967e28678687cac.jpg)https://i.pinimg.com/originals/63/dc/36/63dc368ec4c000526967e28678687cac.jpg)
