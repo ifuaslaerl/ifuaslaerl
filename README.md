@@ -1,22 +1,20 @@
-# 👋 Sobre Mim
+# ⚡ Luís Rafael Sena
 
-Olá, sou [Seu Nome], um(a) entusiasta de [Suas Áreas de Interesse]. Atualmente, estou estudando [Seu Curso] na [Nome da Universidade].
+Olá, sou Luís Rafael Sena, um(a) entusiasta de programação competitiva. Atualmente, estou estudando engenharia eletrônica e de computação na UFRJ.
 
 ## 🚀 Habilidades
 
-- Linguagens de Programação: [Lista de Linguagens]
-- Ferramentas e Tecnologias: [Lista de Ferramentas e Tecnologias]
-- ...
+- Linguagens de Programação: Pascal, Python, C++, C
 
 ## 🌟 Projetos Destacados
 
-- [Nome do Projeto]: [Breve Descrição]
-- [Nome do Projeto]: [Breve Descrição]
-- ...
+- 6° no Rio de Janeiro e 63° no Brasil na Maratona de programação SBC: A Maratona de Programação SBC é uma competição anual desafiadora para estudantes universitários. Com foco em áreas como algoritmos e estruturas de dados, a maratona promove o desenvolvimento de habilidades técnicas, lógica e trabalho em equipe.
 
 ## 📫 Como Me Encontrar
 
-- LinkedIn: [Perfil do LinkedIn]
-- Twitter: [Nome de Usuário no Twitter]
-- ...
+- Instagram: [Texto do Link](URL)
+- Discord: [Texto do Link](URL)
+- LinkedIn: [Texto do Link](URL)
+- Gmail: [Texto do Link](URL)
 
+![Texto Alternativo](URL da Imagem)
