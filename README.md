@@ -1,6 +1,6 @@
 # ⚡ Luís Rafael Sena
 
-Olá, sou Luís Rafael Sena, um(a) entusiasta de programação competitiva. Atualmente, estou estudando engenharia eletrônica e de computação na UFRJ.
+Olá, sou Luís Rafael Sena, um entusiasta de programação competitiva. Atualmente, estou estudando engenharia eletrônica e de computação na UFRJ.
 
  <img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/> <img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/> <img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/>
 
