@@ -17,4 +17,4 @@ Olá, sou Luís Rafael Sena, um(a) entusiasta de programação competitiva. Atua
 - [LinkedIn](URL)
 - [Gmail](URL)
 
-![Wallpaper]((https://i.pinimg.com/originals/63/dc/36/63dc368ec4c000526967e28678687cac.jpg)https://i.pinimg.com/originals/63/dc/36/63dc368ec4c000526967e28678687cac.jpg)
+![Wallpaper](https://i.pinimg.com/originals/63/dc/36/63dc368ec4c000526967e28678687cac.jpg)
