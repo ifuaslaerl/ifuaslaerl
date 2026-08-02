@@ -2,9 +2,9 @@
 
 ### Electronic & Computer Engineering Student @ UFRJ
 
-I am a software engineer and researcher passionate about **Algorithms**, **Artificial Intelligence**, and **High-Performance Computing**.
+I am a software engineer and researcher passionate about **Algorithms** and **Artificial Intelligence**.
 
-I currently work as an Undergraduate Researcher at **Signal Processing Lab (LPS)**, developing acoustic detection systems, and I am a competitive programmer for the **Competições de Algoritmos e Programação UFRJ**.
+I used to work as an Undergraduate Researcher at **Signal Processing Lab (LPS)**, developing acoustic detection systems, and I am a competitive programmer for the **Competições de Algoritmos e Programação UFRJ**.
 
 **Current Focus**: I am currently grinding to qualify for the **ICPC World Finals**!
 
